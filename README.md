@@ -4,6 +4,6 @@ Name: Chandra Sahaj.C <br />
 Gitam University Hyderabad <br />
 
 Library Website Project (DevRev Task) <br />
-Website hosted on GitHub Pages <br />
-
 Designed using Flutter and Dart<br/>
+
+##### Website hosted on GitHub Pages <br />
