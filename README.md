@@ -1,5 +1,5 @@
-#Front-End Task
-Name: Chandra Sahaj Chinta
+# Front-End Task <br />
+Name: Chandra Sahaj Chinta <br />
 
 Library Website Project (DevRev Task) <br />
 Website hosted on GitHub Pages <br />
